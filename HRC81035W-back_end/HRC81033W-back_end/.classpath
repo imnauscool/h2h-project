@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Backend/src"/>
+	<classpathentry kind="lib" path="Backend/WebContent/WEB-INF/lib/gson-2.9.0.jar"/>
+	<classpathentry kind="lib" path="Backend/WebContent/WEB-INF/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="Backend/WebContent/WEB-INF/lib/mysql-connector-java-8.0.26.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="Backend/build/classes"/>
+</classpath>
